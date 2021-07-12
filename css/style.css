@@ -126,7 +126,7 @@ hr{
 @media only screen and (max-width:425px){
     .container{
         width:100%;
-        padding: 10px;
+        padding: 30px;
     }
     .top-players, .top-blogs, .courses{
         grid-template-columns: repeat(1,1fr);
