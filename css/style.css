@@ -144,8 +144,7 @@ hr{
         grid-column-gap:0px;
         grid-row-gap:15px;
     }
-    .course{
-        padding: 5px;
-        border-radius:5px;
+    .course-thumbnail {
+        text-align: left;
     }
 }
